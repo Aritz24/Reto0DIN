@@ -3,4 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package reto0din.interfazusuario;
+package reto0din.vista;
+
+/**
+ *
+ * @author 2dam
+ */
+public interface InterfazVista {
+    public void mostrarSaludo(String dato);
+}
